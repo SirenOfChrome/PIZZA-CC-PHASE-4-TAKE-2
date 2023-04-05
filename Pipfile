@@ -16,3 +16,4 @@ flask-restful = "*"
 
 [requires]
 python_full_version = "3.8.13"
+sqlalchemy-serializer = "1.4.1"
